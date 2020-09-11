@@ -70,3 +70,33 @@ payload:
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,ipip.net
   - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,graphviz.org
+  - DOMAIN-SUFFIX,php.net
+  - DOMAIN-SUFFIX,combodo.com
+  - DOMAIN-SUFFIX,bootstrapcdn.com
+  - DOMAIN-SUFFIX,openlayers.org
+  - DOMAIN-SUFFIX,typora.io
+  - DOMAIN-SUFFIX,apache.org
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,netsarang.net
+  - DOMAIN-SUFFIX,netsarang.com
+  - DOMAIN-SUFFIX,ipaddressguide.com
+  - DOMAIN-SUFFIX,liferay.com
+  - DOMAIN-SUFFIX,kohill.cn
+  - DOMAIN-SUFFIX,jquery.com
+  - DOMAIN-SUFFIX,soapui.org
+  - DOMAIN-SUFFIX,fanqiang.network
+  - DOMAIN-SUFFIX,tryshift.com
+  - DOMAIN-SUFFIX,files.gitee.com
+  - DOMAIN-SUFFIX,contentful.com
+  - DOMAIN-SUFFIX,sentry-cdn.com
+  - DOMAIN-SUFFIX,vpls.com
+  - DOMAIN-SUFFIX,krypt.com
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,freenom.com
+  - DOMAIN-SUFFIX,atlassian.com
+  - DOMAIN,www.clxz.top
+  - DOMAIN-SUFFIX,justmysocks.best
+  - DOMAIN-SUFFIX,centos.mirror.myduniahost.com
+  - DOMAIN-SUFFIX,centos.shinjiru.com
+  - DOMAIN-SUFFIX,centos.ipserverone.com
