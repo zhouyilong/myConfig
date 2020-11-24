@@ -1,4 +1,14 @@
 payload:
+  - DOMAIN-SUFFIX,winehq.org
+  - DOMAIN-SUFFIX,aka.ms
+  - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,sourceforge.net
+  - DOMAIN-SUFFIX,eleme.io
+  - DOMAIN-SUFFIX,mir01.syntis.net
+  - DOMAIN-SUFFIX,innosol.asia
+  - DOMAIN-SUFFIX,mysql.com
+  - DOMAIN-SUFFIX,duboxcdn.com
+  - DOMAIN-SUFFIX,dubox.com
   - DOMAIN-SUFFIX,elastic.co
   - DOMAIN-SUFFIX,jetbrains-agent.com
   - DOMAIN-SUFFIX,zhile.io
