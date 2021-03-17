@@ -13,7 +13,7 @@ payload:
   - DOMAIN-SUFFIX,jetbrains-agent.com
   - DOMAIN-SUFFIX,zhile.io
   - DOMAIN-SUFFIX,bouncycastle.org
-  - DOMAIN-SUFFIX,intellij-support.jetbrains.com
+  - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,boot.jeecg.com
   - DOMAIN-SUFFIX,updates.tdesktop.com
   - DOMAIN-SUFFIX,sub.dler.io
