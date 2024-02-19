@@ -190,3 +190,31 @@ payload:
   - DOMAIN-SUFFIX,jsfiddle.net
   - DOMAIN-SUFFIX,vpsgo.com
   - DOMAIN-SUFFIX,gogs.io
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,files.pythonhosted.org
+  - DOMAIN-SUFFIX,www.python.org
+  - DOMAIN-SUFFIX,mojie.me
+  - DOMAIN-SUFFIX,k8s.io
+  - DOMAIN-SUFFIX,odrs.gnome.org
+  - DOMAIN-SUFFIX,shopee.com.my
+  - DOMAIN-SUFFIX,wholeecdn.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,greencloudvps-com.webpkgcache.com
+  - DOMAIN-SUFFIX,astaff.51cg1.com
+  - DOMAIN-SUFFIX,client.relay.crisp.chat
+  - DOMAIN-SUFFIX,wholee.cc
+  - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN,static.ifddxp.com
+  - DOMAIN,51cg1.com
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,tunsafe.com
+  - DOMAIN-SUFFIX,netsarang.com
+  - DOMAIN-SUFFIX,virmach.com
+  - DOMAIN-SUFFIX,share.cjy.me
+  - DOMAIN,ai.fakeopen.com
+  - DOMAIN-SUFFIX,mozilla.org
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,www.v2ray.com
+  - DOMAIN-SUFFIX,ssr.tools
+  - DOMAIN-SUFFIX,ipip.net
