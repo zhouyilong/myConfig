@@ -218,3 +218,6 @@ payload:
   - DOMAIN-SUFFIX,www.v2ray.com
   - DOMAIN-SUFFIX,ssr.tools
   - DOMAIN-SUFFIX,ipip.net
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,githubcopilot.com
+  - DOMAIN-SUFFIX,cocopilot.net
